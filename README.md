@@ -68,6 +68,8 @@ In this subsection, you’ll create a smart contract that defines KaseiCoin as a
 
 8. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your GitHub repository.
 
+   ![alt=""](Images/compile1.png)
+
 ### Step 2: Create the KaseiCoin Crowdsale Contract
 
 In this subsection, you’ll define the KaseiCoin crowdsale contract. To do so, complete the following steps:
@@ -87,6 +89,8 @@ In this subsection, you’ll define the KaseiCoin crowdsale contract. To do so, 
 5. Check for any errors, and debug them as needed.
 
 6. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your GitHub repository.
+
+   ![alt=""](Images/compile2.png)
 
 ### Step 3: Create the KaseiCoin Deployer Contract
 
@@ -126,6 +130,8 @@ Next, in the `KaseiCoinCrowdsaleDeployer` contract, you’ll add variables to st
 
 7. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your Git repository.
 
+   ![alt=""](Images/compile2.png)
+
 ### Step 4: Deploy and Test the Crowdsale on a Local Blockchain
 
 In this subsection, you’ll deploy the crowdsale to a local blockchain. You’ll then perform a real-world, preproduction test of your crowdsale. To do so, complete the following steps:
@@ -135,8 +141,13 @@ In this subsection, you’ll deploy the crowdsale to a local blockchain. You’l
 1. Deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
 
 2. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances of those accounts.
+   ![alt=""](Images/buytokens.png)
 
-3. Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised.
+   ![alt=""](Images/balance.png)
+
+4. Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised.
+
+   ![alt=""](Images/totalsupply.png)
 
 ### Optional: Extend the Crowdsale Contract by Using OpenZeppelin
 
