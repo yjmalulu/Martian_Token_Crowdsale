@@ -143,6 +143,8 @@ In this subsection, you’ll deploy the crowdsale to a local blockchain. You’l
 2. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances of those accounts.
    ![alt=""](Images/buytokens.png)
 
+   ![alt=""](Images/transaction.png)
+   
    ![alt=""](Images/balance.png)
 
 4. Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised.
